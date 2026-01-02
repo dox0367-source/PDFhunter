@@ -1,0 +1,6 @@
+.env
+*.pyc
+__pycache__/
+ticket_config.json
+ticket_counter.json
+*.log
